@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm José Alejandro Velásquez Castaño 👋
 
-<!--
-**jvelasquezc00-dot/jvelasquezc00-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist working on **computational photonics**: how light is scattered, absorbed and emitted by
+complex materials, and how to turn that physics into reliable simulation code.
 
-Here are some ideas to get you started:
+- 🎓 **MSc in Optics**, CICESE (Ensenada, Mexico), 2026 — thesis on the spectral properties of
+  porous polymer foams for **passive daytime radiative cooling**
+- 🎓 **BSc in Physics Education**, Universidad Distrital Francisco José de Caldas (Bogotá), 2022 —
+  monograph on the optics of anisotropic media (liquid-crystal polarization modulators for ellipsometry)
+- 📍 Bogotá, Colombia · 🗣️ Spanish (native), English (C1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Repository | What it does |
+|---|---|
+| [**pdrc-porous-foams-model**](https://github.com/jvelasquezc00-dot/pdrc-porous-foams-model) | Simulation pipeline from my MSc thesis: optical properties of porous polymer foams (PDMS, PEI, PET) for passive daytime radiative cooling, based on Mie scattering |
+| [**tissue-optics-mc**](https://github.com/jvelasquezc00-dot/tissue-optics-mc) | Monte Carlo light transport in turbid media (MCML-style), vectorized in NumPy and validated against exact (Chandrasekhar H-function) and published results |
+
+### Tools
+
+Python · NumPy · SciPy · Matplotlib · pytest · Git
+
+### Certifications
+
+- NVIDIA DLI — *Fundamentals of Deep Learning* (2026)
+- NVIDIA DLI — *Applications of AI for Anomaly Detection* (2026)
+
+### Memberships
+
+Optica · SPIE · IEEE Photonics Society
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/opticsresearcher) · jvelasquezc00@gmail.com
