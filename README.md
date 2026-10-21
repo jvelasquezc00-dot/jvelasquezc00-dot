@@ -13,7 +13,7 @@ complex materials, and how to turn that physics into reliable simulation code.
 
 | Repository | What it does |
 |---|---|
-| [**pdrc-porous-foams-model**](https://github.com/jvelasquezc00-dot/pdrc-porous-foams-model) | Simulation pipeline from my MSc thesis: optical properties of porous polymer foams (PDMS, PEI, PET) for passive daytime radiative cooling, based on Mie scattering |
+| [**pdrc-porous-foams-model**](https://github.com/jvelasquezc00-dot/pdrc-porous-foams-model) | Simulation pipeline from my MSc thesis for passive daytime radiative cooling in porous polymer foams (PDMS, PEI, PET): Mie scattering → Maxwell-Garnett effective medium → Kubelka-Munk reflectance → thermal balance |
 | [**tissue-optics-mc**](https://github.com/jvelasquezc00-dot/tissue-optics-mc) | Monte Carlo light transport in turbid media (MCML-style), vectorized in NumPy and validated against exact (Chandrasekhar H-function) and published results |
 
 ### Tools
